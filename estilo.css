@@ -1,0 +1,95 @@
+header {
+    background-color: #0060B1;
+    padding: 20px;
+}
+
+.titulo {
+    color: #E35214;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.384);
+}
+
+
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+    
+}
+
+.menu-classes ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.menu-classes ul li {
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+.menu-classes ul li a {
+    text-decoration: none;
+    color: #fffbfb;
+    font-weight: bold;
+    
+    
+}
+
+.titulo {
+    text-align: center;
+}
+
+.logo img {
+    max-width: 100px;
+    height: auto;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.left-side h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.left-side p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.left-side a {
+    text-decoration: none;
+    color: #383737;
+}
+
+.left-side span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.left-side button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.right-side img {
+    max-width: 100%;
+    height: auto;
+}
+</style>
