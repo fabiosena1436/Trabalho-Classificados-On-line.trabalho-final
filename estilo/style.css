@@ -42,7 +42,7 @@ header>p {
 
 .search-box {
     position: absolute;
-    left: 1200px;
+    left: 1100px;
     transform: translate(-50%, -50%);
     background: #383737;
     height: 20px;
