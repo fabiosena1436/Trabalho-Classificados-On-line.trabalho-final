@@ -42,13 +42,16 @@ header>p {
 
 .search-box {
     position: absolute;
-    left: 1100px;
+    left: 80%;
+    height: 20%;
     transform: translate(-50%, -50%);
     background: #383737;
     height: 20px;
-    padding: 10px;
+    padding: 9px;
     border-radius: 40px;
     display: flex;
+    
+    
 }
 
 .search-txt {
