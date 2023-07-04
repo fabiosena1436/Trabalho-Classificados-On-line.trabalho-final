@@ -50,8 +50,8 @@ header>p {
     padding: 9px;
     border-radius: 40px;
     display: flex;
-
-
+    
+    
 }
 
 .search-txt {
@@ -264,49 +264,4 @@ input[type="submit"]:hover {
 .container .card .card-content button a {
     text-decoration: none;
     color: black;
-}
-
-@media (max-width: 600px) {
-    /* Your responsive CSS rules go here */
-}
-
-header {
-    padding-top: 20px;
-    margin-bottom: 10px;
-}
-
-header>h1 {
-    font-size: 2em;
-    line-height: 1.2;
-}
-
-header>p {
-    font-size: 1em;
-    line-height: 1.4;
-}
-
-.search-box {
-    width: 80%;
-    padding: 12px;
-}
-
-.search-btn i {
-    font-size: 18px;
-}
-
-.content {
-    flex-direction: column;
-}
-
-.produtos img {
-    width: 80px;
-}
-
-.container {
-    flex-wrap: wrap;
-}
-
-.container .card {
-    width: 95%;
-    margin-bottom: 20px;
 }
